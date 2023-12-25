@@ -1,0 +1,62 @@
+*{
+    background-color: rgb(237, 238, 249);
+    font-family: fantasy;
+}
+
+h2{
+    color: rgb(167, 167, 207);
+}
+a{
+    color: red;
+    font-size: 20px;
+    text-decoration: none
+    
+}
+
+img{
+    width: 200px;
+    height: 400px;
+    
+}
+
+p{
+    font-size: 20px;
+    color:  darksalmon;
+ 
+ }
+
+ li{
+    color: blue;
+    font-size: 20px;
+ }
+
+ table,th,td{
+    border: 1px solid greenyellow;
+ }
+
+
+ th{
+    color: darkgreen;
+    font-size: 30px;
+}
+ td{
+    color:black
+ }
+
+ li{
+    font-size: 40px;
+ }
+form{
+        margin-left: 600px
+ }
+ 
+ 
+ button{
+    color: darkgoldenrod;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: greenyellow;
+    border: 5px solid palevioletred}
+
+
+
